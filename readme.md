@@ -2,8 +2,8 @@
 
 A classic number guessing game built with C and the Raylib library, featuring a clean graphical user interface.
 
-![Screenshot of the Number Guessing Game](https://i.imgur.com/rL7gY2w.png) 
-*(You can replace this link with a screenshot of your own game)*
+![Screenshot of the Number Guessing Game](resources/screenshot.png) 
+
 
 ---
 
