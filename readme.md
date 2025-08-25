@@ -4,7 +4,6 @@ A classic number guessing game built with C and the Raylib library, featuring a 
 
 ![Screenshot of the Number Guessing Game](resources/screenshot.png) 
 
-
 ---
 
 ## About The Project
